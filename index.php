@@ -14,7 +14,7 @@
   	<div class="bg-image"></div>
   	<center>
 	    <div class="text-center bg-text" >
-	  		<img src="img/foto.jpg" class="rounded" width="100%" alt="seila">
+	  		<img src="img/foto.jpg" class="rounded" width="100%" alt="Logo">
 		</div>
 		<div class="bg-text-botton">
 			<center>
