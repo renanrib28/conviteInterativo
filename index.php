@@ -20,10 +20,12 @@
     <div class="bg-text-botton">
       <center>
         <img src="img/cardapio.png" class="cardapioimg">
-        <a>
+        <a href="https://api.whatsapp.com/send?phone=5521989041159&text=Bom%20Dia!%20Gostaria%20de%20fazer%20um%20pedido">
           <img src="img/whats.png" class="cardapioimg">
         </a>
-        <img src="img/insta.png" class="cardapioimg">
+        <a href="https://www.instagram.com/burgerkingbrasil/">
+          <img src="img/insta.png" class="cardapioimg">
+        </a>
       </center>
     </div>
   </center>
